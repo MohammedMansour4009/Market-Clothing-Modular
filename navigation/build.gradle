@@ -1,0 +1,12 @@
+plugins {
+    id 'com.android.library'
+}
+apply from: rootDir.path + "/sub_project.gradle"
+apply from: rootDir.path + "/dependencies.gradle"
+
+dependencies {
+    api project(":data")
+    api project(":features:main:data")
+    api project(":features:home:data")
+    api project(":features:home:presentation")
+}

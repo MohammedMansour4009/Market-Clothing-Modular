@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/drawable/ic_back.xml" value="0.1365" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/drawable/ic_menu.xml" value="0.1155" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/layout/feagment_medal.xml" value="0.25" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/layout/fragment_medal.xml" value="0.25" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/layout/row_medal.xml" value="0.176" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/layout/row_scation_medal.xml" value="0.25" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/layout/row_section_medal.xml" value="0.2" />
+        <entry key="..\:/Android/compose/MedalCase/app/src/main/res/menu/top_bar_menu.xml" value="0.25" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/drawable/ic_favorite.xml" value="0.168" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/drawable/ic_favorite_selected.xml" value="0.1" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/fragment_achievement.xml" value="0.2101851851851852" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/fragment_medal.xml" value="0.176" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/row_clothing.xml" value="0.176" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/row_medal.xml" value="0.39273356401384085" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/row_section_achievement.xml" value="0.25" />
+        <entry key="..\:/Android/compose/MedalCase/features/home/presentation/src/main/res/layout/row_section_clothing.xml" value="0.1" />
+        <entry key="..\:/Android/compose/MedalCase/features/main/presentation/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

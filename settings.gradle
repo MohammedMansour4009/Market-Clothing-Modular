@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Clothing Case"
+include ':app'
+include ':data'
+include ':core'
+include ':features:home:domain'
+include ':features:home:data'
+include ':features:home:presentation'
+
+include ':features:main:data'
+include ':features:main:presentation'
+include ':features:main:domain'
+include ':navigation'
+

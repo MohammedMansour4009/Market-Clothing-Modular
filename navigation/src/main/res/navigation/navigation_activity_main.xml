@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_activity_main.xml"
+    app:startDestination="@id/clothingFragment">
+
+    <fragment
+        android:id="@+id/clothingFragment"
+        android:name="com.runkeeper.clothingcase.feature.home.presentation.ClothingFragment"
+        android:label="ClothingFragment" />
+</navigation>
